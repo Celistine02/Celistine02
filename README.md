@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Celestine Chipangura</h1>
-<h3 align="center">A Passionate Fullstack Web Developer from Zimbabwe</h3>
+<h1 align="center">Hi 👋, I'm Celistine Chipangura</h1>
+<h3 align="center">A Passionate Fullstack Web Developer</h3>
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer at Work" width="300px">
@@ -57,19 +57,15 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Profile Summary Card - Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celistine02&theme=radical" alt="Top Languages" />
-  
-  <!-- GitHub Profile Summary Card - Commits per language -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=celistine02&theme=radical" alt="Commits per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celistine02&theme=radical" alt="Top Languages" width="200px" style="margin: 0;" />
 
   <!-- GitHub Profile Summary Card - Total Commits and Other Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celistine02&theme=radical" alt="Total Commits and Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celistine02&theme=radical" alt="Total Commits and Stats" width="200px" style="margin: 0;" />
 
   <!-- GitHub Profile Summary Card - Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celistine02&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celistine02&theme=radical" alt="GitHub Streak" width="200px" style="margin: 0;" />
 </div>
 
