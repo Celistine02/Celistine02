@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Celistine Chipangura</h1>
 <h3 align="center">A Passionate Fullstack Software Developer</h3>
 
@@ -20,12 +21,12 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working on **Carpool System**
-- 🌱 I’m currently learning **React Native, Spring Boot, DevOps**
-- 👯 I’m looking to collaborate on **Sakiso Stream School Management System**
-- 🤝 I’m looking for help with **Advanced Deep Learning Algorithms**
-- 💬 Ask me about **MERN Stack, Flutter, Machine Learning**
-- 📫 Reach me at **celistinechipangura01@gmail.com**
+* 🔭 I’m currently working on **Carpool System**
+* 🌱 I’m currently learning **React Native, Spring Boot, DevOps**
+* 👯 I’m looking to collaborate on **Sakiso Stream School Management System**
+* 🤝 I’m looking for help with **Advanced Deep Learning Algorithms**
+* 💬 Ask me about **MERN Stack, Flutter, Machine Learning**
+* 📫 Reach me at **celistinechipangura01@gmail.com**
 
 ---
 
@@ -52,18 +53,19 @@
   <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <!-- Add more tools here -->
 </p>
 
 ---
-
 ### 📊 GitHub Stats
-<div align="center">
-  <!-- Total Contributions -->
-  <img src="https://github-readme-stats.vercel.app/api?username=celistine02&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="GitHub Stats" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Profile Summary Card - Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=celistine02&theme=radical" alt="Top Languages" width="200px" style="margin: 0;" />
 
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celistine02&theme=radical" alt="GitHub Streak" />
+  <!-- GitHub Profile Summary Card - Total Commits and Other Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=celistine02&theme=radical" alt="Total Commits and Stats" width="200px" style="margin: 0;" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celistine02&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub Profile Summary Card - Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celistine02&theme=radical" alt="GitHub Streak" width="200px" style="margin: 0;" />
 </div>
+
